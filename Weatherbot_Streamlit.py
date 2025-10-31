@@ -39,7 +39,7 @@ if "chatbot" not in st.session_state:
 
 # WEATHER API FUNCTIONS
 
-API_KEY = "api_key"
+API_KEY = "api_key" #Insert your API Key
 
 
 def get_weather(city):
