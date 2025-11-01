@@ -26,7 +26,7 @@ Installation & Setup
 	
  
 Credits
-This project was developed as part of AI Use Case and Evaluation – Phase 3 Assignment under the Master’s program in Artificial Intelligence at IU International University of Applied Sciences.
+This project was developed as part of Project: AI Use Case – Phase 3 Assignment under the Master’s program in Artificial Intelligence at IU International University of Applied Sciences.
 
 
  
